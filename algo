@@ -1,0 +1,19 @@
+#list price per item on purchase
+
+#find total price based on purchase
+
+#declare % refund and assign to minimum euro purchase amount and maximum euro purchase amount
+
+#find % VAT refund based on total purchase
+
+#assign VAT refund % to each item
+
+#subtract this % VAT refund from item
+
+#take this subtracted total per item and convert from Euro to USD
+
+#declare persons items associated with
+
+#add total based on person item associated with
+
+#print this total number in USD
